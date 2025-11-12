@@ -19,12 +19,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=EnterpriseManager1111-arch&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" />
-</div>
-
-<br>
-
 ## 💻 Tech Stack & Tools
 
 ### 🎨 Frontend Development
