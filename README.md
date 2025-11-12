@@ -79,10 +79,6 @@
 
 ## 🐍 Snake Game Contribution
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/EnterpriseManager1111-arch/EnterpriseManager1111-arch/output/github-contribution-grid-snake.svg" alt="Snake game" />
-</div>
-
 <br>
 
 <div align="center">
